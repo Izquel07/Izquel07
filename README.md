@@ -10,7 +10,7 @@
 Soy estudiante de **Ingeniería en Tecnologías de la Información**, aunque gran parte de mi formación ha sido de forma **autodidacta**. Disfruto de la investigación propia y de "romper cosas" para entender cómo funcionan, lo que me ha llevado a adoptar flujos de trabajo técnicos y personalizados.
 
 - 🔍 **Perfil Investigador:** Creo firmemente en la documentación oficial y el aprendizaje basado en proyectos. Lo que sé de Linux y desarrollo ha sido fruto de curiosidad y horas de terminal.
-- 🎯 **Enfoque actual:** Fortaleciendo bases sólidas en **Java** para dominar el ecosistema **Spring**.
+
 - 🛠️ **Infraestructura:** Usuario de **Arch Linux** (KISS principle) y explorando la gestión de servidores.
 - 🔐 **Seguridad:** Actualmente cursando el *Certificado Profesional de Ciberseguridad de Google* (Coursera).
 
@@ -26,18 +26,13 @@ Soy estudiante de **Ingeniería en Tecnologías de la Información**, aunque gra
 
 #### Workflow
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📈 Actualmente aprendiendo...
 
-- [ ] **Java & SQL:** Repaso profundo y optimización de consultas.
-- [ ] **Git & GitHub:** Control de versiones avanzado.
-- [ ] **Google Cybersecurity:** Fundamentos de defensa y redes.
-- [ ] **LazyVim:** Migrando mi flujo de trabajo de Nvim a una configuración personalizada.
+-[] **Aprendiendo Go**
 
 ---
 
